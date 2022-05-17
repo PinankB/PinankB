@@ -8,3 +8,16 @@
 PinankB/PinankB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+This is my website "AVID READ"
+
+In this website you can get free E-books which are in the format of pdf and are very easily accessible. You can downoad these books and can enjoy it for free without any sort of subscription.
+
+Many popular books like Harry Potter and Wimpy Kid and Entrepreneurial and also educational books are available.
+
+I made this website in the year 2021 so i would request you to share this with other people too so the website will grow.
+
+Highest view per day reached was 100
+AIM FRO 1000 views per day
+
+Best of Luck and thank you for reading this 
